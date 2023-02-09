@@ -12,7 +12,7 @@
 - **Control over resources**: the IaC approach makes the infrastructure more observable and prevents waste of resources
 - **Clear documentation**: your Terraform code effectively becomes your project documentation. It means that you can add new members to the team, and it won’t take them too much time to figure out how the infrastructure works
 
-## Why you should use this boilerplate
+## Why you should use this boilerplate.
 
 - **Safe and polished**: we’ve used these solutions in our own large-scale, high-load projects. We’ve been perfecting this infrastructure building process for months, making sure that it results in a system that is safe to use, secure, and reliable
 - **Saves time**: you can spend weeks doing your own research and making the unavoidable mistakes to build an infrastructure like this. Instead, you can rely on this boilerplate and create the infrastructure you need within a day
